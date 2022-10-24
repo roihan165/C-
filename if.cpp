@@ -10,9 +10,9 @@ int main(){
 	char nama[15], nim[15];
 	float absen, tugas, uts, uas, hasil;
 	 
-	int printFunction() {
+	/*int printFunction() {
 		cout<<" Masukkan ";	
-	}
+	}*/
 	
 	cout<<"Masukkan Nama Anda = ";
 	gets(nama);
