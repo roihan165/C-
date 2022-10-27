@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include <conio.h>
+//#include <conio.h>
 
 using namespace std;
 
@@ -11,9 +11,9 @@ int main(){
 	float absen, tugas, uts, uas, hasil;
 	
 	cout<<"Masukkan Nama Anda = ";
-	gets(nama);
+	cin.getline(nama,15);
 	cout<<"Masukkan NIM Anda = ";
-	gets(nim);
+	cin.getline(nim,15);
 	cout<<"Masukkan Absen = ";
 	cin>>absen;
 	cout<<"Masukkan Nilai Tugas = ";
