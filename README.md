@@ -1,2 +1,2 @@
 # C-
-Ini adalah contoh Readme wkwkwkwk
+Ini adalah contoh Readme Sempurna 
